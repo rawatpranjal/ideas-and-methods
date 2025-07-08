@@ -26,4 +26,5 @@ A monthly log of interesting links, tools, and articles I've discovered.
   - [Double machine learning to estimate the effects of multiple treatments and their interactions](https://arxiv.org/abs/2505.12617)
     An arXiv paper proposing a Double Machine Learning framework to robustly estimate the causal effects of multiple simultaneous treatments.
   - [How to Pick a Better Model (Model Lift)](https://www.casact.org/sites/default/files/presentation/rpm_2016_presentations_pm-lm-4.pdf)
-    A presentation on practical methods like lift charts and the Gini index for evaluating predictive models.
+    A very useful primer on model evaluation in context of insurance. Covers lift, double-lift and loss charts, and Gini index for evaluating predictive models and model scores.
+ 
