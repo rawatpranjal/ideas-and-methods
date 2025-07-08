@@ -6,15 +6,15 @@ A monthly log of interesting links, tools, and articles I've discovered.
 
 ## July 2025
 
-- **Advertising & Autobidding Auctions**
-  - [Incrementality Bidding & Attribution](https://arxiv.org/abs/2208.12809)
-    A foundational paper unifying ad bidding, attribution, and experimentation using a continuous-time causal model.
+- **Autobidding Auctions**
   - [Efficiency of the First-Price Auction in the Autobidding World](https://proceedings.neurips.cc/paper_files/paper/2024/hash/fb6279dab0e9282261e43113-Abstract-Conference.html)
     A NeurIPS paper analyzing the price of anarchy (efficiency) of first-price auctions with a mix of traditional and automated bidders.
 
-- **Causal Inference**
+- **Causal Inference and Incrementality in Advertising**
   - [Double machine learning to estimate the effects of multiple treatments and their interactions](https://arxiv.org/abs/2505.12617)
     An arXiv paper proposing a Double Machine Learning framework to robustly estimate the causal effects of multiple simultaneous treatments.
+  - [Incrementality Bidding & Attribution](https://arxiv.org/abs/2208.12809)
+    A foundational paper unifying ad bidding, attribution, and experimentation using a continuous-time causal model.
 
 - **Reinforcement Learning in Ride-share**
   - [Reinforcement Learning for Modeling Marketplace Balance](https://www.uber.com/blog/reinforcement-learning-for-modeling-marketplace-balance/)
