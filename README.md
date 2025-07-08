@@ -22,7 +22,7 @@ A monthly log of interesting links, tools, and articles I've discovered.
   - [A Better Match for Drivers and Riders: Reinforcement Learning at Lyft](https://pubsonline.informs.org/doi/10.1287/inte.2023.0083)
     Details Lyft's real-time reinforcement learning algorithm that optimizes matching by estimating future driver earnings.
 
-- **Safety in Ride Share and Severity-Frequency Modelling**
+- **Safety and Risk in Ride Share**
   - [How to Pick a Better Model (Model Lift)](https://www.casact.org/sites/default/files/presentation/rpm_2016_presentations_pm-lm-4.pdf)
     A very useful primer on model evaluation in context of insurance. Covers lift, double-lift and loss charts, and Gini index for evaluating predictive models and model scores.
   - [Generalized Linear Models for Insurance Ratings]( https://www.casact.org/sites/default/files/2021-01/05-Goldburd-Khare-Tevet.pdf)
