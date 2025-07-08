@@ -1,4 +1,4 @@
-# Really Useful Links
+# Ideas and Methods
 
 A monthly log of interesting links, tools, and articles I've discovered.
 
